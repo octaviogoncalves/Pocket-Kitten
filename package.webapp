@@ -1,0 +1,9 @@
+{
+	"name": "Pocket-Kitten",
+    "package_path" : "https://github.com/octaviogoncalves/Pocket-Kitten/raw/master/Pocket-Kitten.zip",
+    "version": "1",
+    "developer": {
+        "name": "Octavio Goncalves",
+        "url": "https://github.com"
+    }
+}
